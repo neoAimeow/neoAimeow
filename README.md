@@ -4,7 +4,7 @@
 
 - 🔭 目前自由职业，全栈开发工程师
 - 🌱 技术栈：typescript\react\tailwind\react\react-native\nestjs\prisma\java\spring boot\spring cloud 等
-- 👯 微信号：aimeow_n 加我请注明来由
+- 👯 微信号：Siy-Wuzy 加我请注明来由
 - 🤔 email：a18814888787@gmail.com
 - 📫 性格：INTP与INFJ间排徊 
 - 😄 爱好：游戏、练琴、玩水、撸猫、鱼缸造景
