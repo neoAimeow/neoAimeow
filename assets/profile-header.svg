@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Aimeow</title>
+  <title id="title">neo</title>
   <desc id="description">Independent full-stack developer. Web, mobile, and AI video.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
@@ -18,7 +18,7 @@
   <rect width="1200" height="300" rx="18" fill="url(#grid)" />
   <rect x="64" y="57" width="52" height="4" rx="2" fill="#77D9D0" />
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="60" y="159" fill="#F5F3FF" font-size="88" font-weight="700" letter-spacing="-3">Aimeow</text>
+    <text x="60" y="159" fill="#F5F3FF" font-size="88" font-weight="700" letter-spacing="-3">neo</text>
     <text x="65" y="207" fill="#C5C9DC" font-size="27">Independent full-stack developer</text>
     <text x="65" y="254" fill="#8E99B2" font-size="17" letter-spacing="3">WEB / MOBILE / AI VIDEO</text>
   </g>

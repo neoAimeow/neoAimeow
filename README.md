@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Aimeow — independent full-stack developer" width="100%" />
+  <img src="./assets/profile-header.svg" alt="neo — independent full-stack developer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://github.com/neoAimeow?tab=repositories">Repositories</a>
 </p>
 
-I'm **Aimeow**, an independent full-stack developer focused on web and mobile development. Previously at **Alibaba**, **Meituan**, and **Creatify**.
+I'm **neo**, an independent full-stack developer focused on web and mobile development. Previously at **Alibaba**, **Meituan**, and **Creatify**.
 
 My work spans frontend interfaces, iOS apps, backend services, and audio/video systems.
 
