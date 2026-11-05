@@ -16,7 +16,8 @@ I'm **Neo**, an independent full-stack developer.
 | --- | --- | --- |
 | [Creatify](https://creatify.ai/about) | Frontend Lead (Remote) | AI platform for creating and optimizing video ads. |
 | [Meituan](https://www.meituan.com/en-US/about-us) | Frontend Engineer | Technology platform for local services, food delivery, and retail. |
-| [Alibaba](https://www.alibabagroup.com/en-US/about-alibaba) | Java Developer | Global technology company spanning e-commerce and cloud computing. |
+| [Alibaba](https://www.alibabagroup.com/en-US/about-alibaba) | Java Backend Developer | Global technology company spanning e-commerce and cloud computing. |
+| [Alibaba (Tmall)](https://www.alibabagroup.com/en-US/about-alibaba) | Live Streaming Client Developer (iOS) | Tmall, Alibaba's e-commerce platform. |
 
 ## What I build
 
