@@ -1,10 +1,45 @@
-### 个人介绍
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Aimeow — independent full-stack developer" width="100%" />
+</p>
 
-前端、iOS、JAVA ，音视频技术，直播技术等，多方面都有涉猎，执行能力与推动业务能力较强，业务型开发。曾就职于阿里、美团，硅谷创业公司creatify，负责过多个大型项目，同时也有多个app 、小程序、前端页面独立开发的经验，开发经历比较丰富，先后经历过几十款 app 、小程序的开发，现自由职业。
+<p align="center">
+  <a href="mailto:siyneo240803@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/neoAimeow?tab=repositories">Repositories</a>
+</p>
 
-- 🔭 目前自由职业，全栈开发工程师
-- 🌱 技术栈：typescript\react\tailwind\react\react-native\nestjs\prisma\java\spring boot\spring cloud 等
-- 👯 微信号：Yi-Yang-Buna 加我请注明来由
-- 🤔 email：siyneo240803@gmail.com
-- 📫 性格：INTP
-- 😄 爱好：游戏、练琴、玩水、撸猫、鱼缸造景、麻将、卡丁车、吃美食
+I'm **Aimeow**, an independent full-stack developer building web and mobile products. Previously at **Alibaba**, **Meituan**, and **Creatify**.
+
+My work spans frontend interfaces, iOS apps, backend services, and audio/video systems. I've also built apps and mini programs independently.
+
+## What I build
+
+- **Web products** — React and TypeScript applications, reusable UI components, and interactive editors.
+- **Mobile apps** — iOS and React Native applications, from implementation through release.
+- **AI video tools** — At Creatify, I worked on video generation workflows, Remotion-based rendering, and a browser video editor.
+
+## Toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Web | TypeScript, React, Tailwind CSS |
+| Mobile | iOS, React Native |
+| Backend | NestJS, Prisma, Java, Spring Boot, Spring Cloud |
+| Video | Remotion, audio/video integrations |
+
+## Public work
+
+| Project | What's inside |
+| --- | --- |
+| [RunnerDeck releases](https://github.com/neoAimeow/runner-deck-packages/releases) | Public release assets for RunnerDeck desktop builds. |
+| [TypeScript utilities](https://github.com/neoAimeow/private-typescript-utils) | Generic caching, execution chains, and Promise helpers. |
+| [TypeScript decorators](https://github.com/neoAimeow/private-typescript-decorator) | Method decorators for logging, error handling, and lifecycle hooks. |
+
+## Get in touch
+
+For project inquiries or collaboration, email **[siyneo240803@gmail.com](mailto:siyneo240803@gmail.com)**.
+
+WeChat: `Yi-Yang-Buna` — please include a short introduction.
+
+---
+
+Away from the keyboard: piano, cats, aquascaping, and karting.
