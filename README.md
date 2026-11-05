@@ -8,7 +8,15 @@
   <a href="https://github.com/neoAimeow?tab=repositories">Repositories</a>
 </p>
 
-I'm **Neo**, an independent full-stack developer. I've previously worked at **Alibaba**, **Meituan**, and **Creatify**.
+I'm **Neo**, an independent full-stack developer.
+
+## Previous experience
+
+| Company | Role | About the company |
+| --- | --- | --- |
+| [Creatify](https://creatify.ai/about) | Frontend Lead (Remote) | AI platform for creating and optimizing video ads. |
+| [Meituan](https://www.meituan.com/en-US/about-us) | Frontend Engineer | Technology platform for local services, food delivery, and retail. |
+| [Alibaba](https://www.alibabagroup.com/en-US/about-alibaba) | Java Developer | Global technology company spanning e-commerce and cloud computing. |
 
 ## What I build
 
