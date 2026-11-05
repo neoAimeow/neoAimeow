@@ -1,24 +1,22 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="neo — independent full-stack developer" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Neo — independent full-stack developer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.solvin-apps.com/en/">Solvin Apps</a> &nbsp; / &nbsp;
+  <a href="https://www.solvin-apps.com/en/">Website</a> &nbsp; / &nbsp;
   <a href="mailto:siyneo240803@gmail.com">Email</a> &nbsp; / &nbsp;
   <a href="https://github.com/neoAimeow?tab=repositories">Repositories</a>
 </p>
 
-I'm **neo**, an independent full-stack developer focused on web and mobile development. Previously at **Alibaba**, **Meituan**, and **Creatify**.
-
-My work spans frontend interfaces, iOS apps, backend services, and audio/video systems.
+I'm **Neo**, an independent full-stack developer. I've previously worked at **Alibaba**, **Meituan**, and **Creatify**.
 
 ## What I build
 
 - **Web applications** — React and TypeScript applications, reusable UI components, and interactive editors.
-- **Mobile apps** — iOS, Flutter, and React Native applications, from implementation through release.
+- **Mobile apps** — iOS, Flutter, and React Native applications, from development to release.
 - **AI video tools** — At Creatify, I worked on video generation workflows, Remotion-based rendering, and a browser video editor.
 
-## Toolkit
+## Tech stack
 
 | Area | Technologies |
 | --- | --- |
