@@ -14,7 +14,7 @@ My work spans frontend interfaces, iOS apps, backend services, and audio/video s
 ## What I build
 
 - **Web products** — React and TypeScript applications, reusable UI components, and interactive editors.
-- **Mobile apps** — iOS and React Native applications, from implementation through release.
+- **Mobile apps** — iOS, Flutter, and React Native applications, from implementation through release.
 - **AI video tools** — At Creatify, I worked on video generation workflows, Remotion-based rendering, and a browser video editor.
 
 ## Toolkit
@@ -22,8 +22,8 @@ My work spans frontend interfaces, iOS apps, backend services, and audio/video s
 | Area | Technologies |
 | --- | --- |
 | Web | TypeScript, React, Tailwind CSS |
-| Mobile | iOS, React Native |
-| Backend | NestJS, Prisma, Java, Spring Boot, Spring Cloud |
+| Mobile | iOS, Flutter, React Native |
+| Backend | Go, Rust, NestJS, Prisma, Java, Spring Boot, Spring Cloud |
 | Video | Remotion, audio/video integrations |
 
 ## Public work
